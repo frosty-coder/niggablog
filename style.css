@@ -1,0 +1,17 @@
+.body{
+    background: black;
+}
+#app{
+    background: green;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 270px;
+    margin-bottom: 100px;
+
+}
+#user{
+    margin-top: 60px;
+}
